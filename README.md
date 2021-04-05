@@ -1,1 +1,1 @@
-# JavaScript
+# Coursera javascript assignments
